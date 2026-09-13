@@ -36,12 +36,12 @@ By the end of the session, attendees should be able to:
 
 | Time | Topic | What we will see |
 |---:|---|---|
-| 0:00-0:05 | **Framing** | Copilot as a tool, not an oracle; what changes as tasks grow in scope |
-| 0:05-0:13 | **Stage 1: Inline suggestions** | Completing repetitive code and tests without leaving the editor |
-| 0:13-0:23 | **Stage 2: VS Code Chat** | Explaining unfamiliar code and making a small, scoped change |
-| 0:23-0:43 | **Stage 3: Copilot CLI** | Exploring a repository, planning work, editing multiple files, adding tests, and verifying the result |
-| 0:43-0:50 | **Trust and adoption** | Review practices, guardrails, and signals that matter to teams and leaders |
-| 0:50-1:00 | **Discussion and next steps** | Questions, use cases from the room, and a one-week practice challenge |
+| 12:00-12:05 | **Framing** | Copilot as a tool, not an oracle; what changes as tasks grow in scope |
+| 12:05-12:13 | **Stage 1: Inline suggestions** | Completing repetitive code and tests without leaving the editor |
+| 12:13-12:23 | **Stage 2: VS Code Chat** | Explaining unfamiliar code and making a small, scoped change |
+| 12:23-12:43 | **Stage 3: Copilot CLI** | Exploring a repository, planning work, editing multiple files, adding tests, and verifying the result |
+| 12:43-12:50 | **Trust and adoption** | Review practices, guardrails, and signals that matter to teams and leaders |
+| 12:50-1:00 | **Discussion and next steps** | Questions, use cases from the room, and a one-week practice challenge |
 
 ## The progression
 
