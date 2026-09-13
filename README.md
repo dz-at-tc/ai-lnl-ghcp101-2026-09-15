@@ -199,9 +199,9 @@ Keep a short note of the task, time saved or added, corrections required, and wh
 
 ### Practice next
 
+- [GitHub Copilot CLI for Beginners](https://github.com/github/copilot-cli-for-beginners), a hands-on course that progressively improves a sample application through explanation, testing, debugging, and automation
 - [GitHub Copilot tutorials](https://docs.github.com/en/copilot/tutorials)
 - [GitHub Copilot Cookbook](https://docs.github.com/en/copilot/tutorials/copilot-cookbook)
-- [GitHub Copilot CLI for Beginners](https://github.com/github/copilot-cli-for-beginners), a hands-on course that progressively improves a sample application through explanation, testing, debugging, and automation
 - [Getting started with GitHub Copilot CLI](https://docs.github.com/en/copilot/get-started/cli-quickstart)
 - [Best practices for GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli/cli-best-practices)
 - [GitHub Copilot CLI command reference](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference)
