@@ -41,7 +41,7 @@ By the end of the session, attendees should be able to:
 | 12:13-12:23 | **Stage 2: VS Code Chat** | Explaining unfamiliar code and making a small, scoped change |
 | 12:23-12:43 | **Stage 3: Copilot CLI** | Exploring a repository, planning work, editing multiple files, adding tests, and verifying the result |
 | 12:43-12:50 | **Trust and adoption** | Review practices, guardrails, and signals that matter to teams and leaders |
-| 12:50-1:00 | **Discussion and next steps** | Questions, use cases from the room, and a one-week practice challenge |
+| 12:50-13:00 | **Discussion and next steps** | Questions, use cases from the room, and a one-week practice challenge |
 
 ## The progression
 
