@@ -1,4 +1,4 @@
-# GitHub Copilot 101: From Autocomplete to Agentic Workflows
+# AI Lunch and Learn: GitHub Copilot 101
 
 Lunch and learn for **Tuesday, September 15, 2026**
 
